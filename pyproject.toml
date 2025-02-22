@@ -1,0 +1,18 @@
+[project]
+name = "prompting-workshop"
+version = "0.1.0"
+description = "Workshop de prompting con JupyterLab"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+readme = "README.md"
+requires-python = ">=3.11"
+
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.dependencies]
+python = ">=3.11"
+jupyterlab = ">=4.3.5,<5.0.0"
