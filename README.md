@@ -45,3 +45,9 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request p
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+## Referencias
+
+* [Prompt Engineering Guide](https://www.promptingguide.ai/)
+* [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
+* [Patterns in Prompt Engineering](https://www.dre.vanderbilt.edu/~schmidt/PDF/prompt-patterns.pdf)
